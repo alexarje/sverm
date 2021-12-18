@@ -1,2 +1,3 @@
 # sverm
-Sverm - A micro-universe of dance and music
+
+Sverm - a microuniverse of music and dance
