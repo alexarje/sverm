@@ -1,3 +1,3 @@
-# sverm
+# Sverm
 
-Sverm - a microuniverse of music and dance
+Testing the new setup.
